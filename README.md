@@ -1,7 +1,7 @@
 # DjangoBackendTutorial
 
 
-# Backend-Setup 
+# Setup our Backend 
 
 clone the repositroy:-
 ```
@@ -57,7 +57,7 @@ Verify the entries
 Actor.objects.all()
 ```
 This should give the following output
-### <QuerySet [<Actor: Actor object (1)>, <Actor: Actor object (2)>]>
+#### <QuerySet [<Actor: Actor object (1)>, <Actor: Actor object (2)>]>
 
 Actor.objects.all()
 So apparently to server is running one is localhost:8000(clientside react) and second is localhost:8080(django-api) So to see live application open http://localhost:8000 in your browser window
