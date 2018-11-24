@@ -1,7 +1,7 @@
 # DjangoBackendTutorial
 This is a basic introduction to the Django Rest Framework.  I've posted this here so I can easily refer to it accross machines.
 
-# Setup our Backend 
+## Setup our Backend 
 
 clone the repositroy:-
 ```
@@ -29,7 +29,7 @@ Start server for your REST-API:-
 ./manage.py runserver
 ```
 
-# Enter items into Database
+## Enter items into Database
 Open the shell 
 ```
 python manage.py shell
@@ -59,6 +59,8 @@ Actor.objects.all()
 This should give the following output:
 #### <QuerySet [<Actor: Actor object (1)>, <Actor: Actor object (2)>]>
 
-Actor.objects.all()
+
+
+
 
 So apparently to server is running one is localhost:8000(clientside react) and second is localhost:8080(django-api) So to see live application open http://localhost:8000 in your browser window
