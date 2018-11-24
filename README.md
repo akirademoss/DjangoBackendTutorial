@@ -1,5 +1,5 @@
 # DjangoBackendTutorial
-This is a basic introduction to the Django Rest Framework.  I've posted this here so I can easily refer to it accross machines. Note that I am running this on Linux Ubuntu 18.04 LTS 
+This is a basic introduction to the Django Rest Framework.  I've posted this here so I can easily refer to it accross machines. Note that I am running this on Linux Ubuntu 18.04 LTS.  Note that I did not create this tutorial, I am have simply gone through it and found it to be a particularly useful beginner guide and posted here for convenience sake.  The original tutorial can be found at [Django for React/Angular/Mobile Apps](https://hackernoon.com/django-for-react-angular-mobile-apps-part-1-9d2804555ea8)
 
 #### Following the steps below, you should be able to reproduce the below screenshot:
 ![django](https://user-images.githubusercontent.com/8731829/48966253-a2becb80-ef82-11e8-949f-f10efadd1b8d.png)
