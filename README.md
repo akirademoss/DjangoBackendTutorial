@@ -1,5 +1,5 @@
 # DjangoBackendTutorial
-This is a basic introduction to the Django Rest Framework.  I've posted this here so I can easily refer to it accross machines.
+This is a basic introduction to the Django Rest Framework.  I've posted this here so I can easily refer to it accross machines. Note that I am running this on Linux Ubuntu 18.04 LTS 
 
 ## Setup our Backend 
 
