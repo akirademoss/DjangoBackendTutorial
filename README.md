@@ -1,11 +1,11 @@
 # DjangoBackendTutorial
 This is a basic introduction to the Django Rest Framework.  I've posted this here so I can easily refer to it accross machines. Note that I am running this on Linux Ubuntu 18.04 LTS 
 
-## Following the steps below, you should be able to reproduce the below screenshot:
+#### Following the steps below, you should be able to reproduce the below screenshot:
 ![django](https://user-images.githubusercontent.com/8731829/48966253-a2becb80-ef82-11e8-949f-f10efadd1b8d.png)
 
 
-#### Setup Backend 
+## Setup Backend 
 
 clone the repositroy:-
 ```
