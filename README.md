@@ -1,6 +1,10 @@
 # DjangoBackendTutorial
 This is a basic introduction to the Django Rest Framework.  I've posted this here so I can easily refer to it accross machines. Note that I am running this on Linux Ubuntu 18.04 LTS 
 
+Following the steps below, you should be able to reproduce the below screenshot:
+![django](https://user-images.githubusercontent.com/8731829/48966253-a2becb80-ef82-11e8-949f-f10efadd1b8d.png)
+
+
 ## Setup our Backend 
 
 clone the repositroy:-
@@ -24,10 +28,7 @@ Make Migrations:-
 ./manage.py makemigrations
 ./manage.py migrate
 ```
-Start server for your REST-API:-
-```
-./manage.py runserver
-```
+
 
 ## Enter items into Database
 Open the shell 
@@ -58,6 +59,12 @@ Actor.objects.all()
 ```
 This should give the following output:
 #### <QuerySet [<Actor: Actor object (1)>, <Actor: Actor object (2)>]>
+
+
+Start server for your REST-API:-
+```
+./manage.py runserver
+```
 
 
 
